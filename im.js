@@ -18,7 +18,7 @@ let productInfo = [], message = '', CookieArr = [], Cookie = '', DeviceID = '';
 
 let MT_PROVINCE = $.getdata('MT_PROVINCE') || '山东省';
 let MT_CITY = $.getdata('MT_CITY') || '青岛市';
-let MT_DISTRICT = $.getdata('MT_DISTRICT') || '';
+let MT_DISTRICT = $.getdata('MT_DISTRICT') || '崂山区|李沧区|市南区|市北区';
 let MT_ITEM_BLACK = $.getdata('MT_ITEM_BLACK') || '2478|10056';
 let MT_TOKENS = $.getdata('MT_TOKENS') || '';
 let MT_VERSION = $.getdata('MT_VERSION') || '1.4.9';
